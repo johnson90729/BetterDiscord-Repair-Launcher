@@ -4,7 +4,10 @@ A small portable Windows launcher that checks and repairs BetterDiscord after Di
 
 Discord updates often create a new `app-*` folder, which can remove the BetterDiscord injection from the latest Discord desktop core. This tool checks the newest Discord core before launching Discord and only repairs when needed.
 
+Please download betterdiscord.asar from the official BetterDiscord release page and place it in betterDiscord_ASAR\betterdiscord.asar
+
 > Not affiliated with Discord or BetterDiscord. Use at your own risk.
+
 
 ## Features
 
