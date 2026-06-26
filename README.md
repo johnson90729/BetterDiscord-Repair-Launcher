@@ -74,4 +74,4 @@ This tool does not include any auto-updater. To update BetterDiscord, manually r
 betterDiscord_ASAR\betterdiscord.asar
 Then run ForceRefresh.cmd.
 For public GitHub releases, consider not committing betterdiscord.asar directly. Instead, ask users to download it from the official BetterDiscord release page.
- ``` 
+``` 
