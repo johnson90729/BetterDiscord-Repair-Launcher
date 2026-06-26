@@ -37,6 +37,7 @@ index_JSON/
   index_replacer.js
  ``` 
 ## Setup
+```text
 Download betterdiscord.asar from the official BetterDiscord release page and place it here:
 betterDiscord_ASAR\betterdiscord.asar
 Keep the folder structure unchanged.
@@ -73,3 +74,4 @@ This tool does not include any auto-updater. To update BetterDiscord, manually r
 betterDiscord_ASAR\betterdiscord.asar
 Then run ForceRefresh.cmd.
 For public GitHub releases, consider not committing betterdiscord.asar directly. Instead, ask users to download it from the official BetterDiscord release page.
+ ``` 
