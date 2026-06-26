@@ -20,6 +20,7 @@ Discord updates often create a new `app-*` folder, which can remove the BetterDi
 - Does not auto-download files from GitHub
 
 ## Files
+```text
 BetterDiscordRepair.ps1
 RunRepair.cmd
 RunRepairAndLaunch.cmd
@@ -31,7 +32,7 @@ betterDiscord_ASAR/
   betterdiscord.asar
 index_JSON/
   index_replacer.js
-  
+ ``` 
 ## Setup
 Download betterdiscord.asar from the official BetterDiscord release page and place it here:
 betterDiscord_ASAR\betterdiscord.asar
