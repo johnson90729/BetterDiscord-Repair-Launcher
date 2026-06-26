@@ -34,7 +34,7 @@ betterDiscord_ASAR/
 index_JSON/
   index_replacer.js
 
-Setup
+## Setup
 Download betterdiscord.asar from the official BetterDiscord release page and place it here:
 betterDiscord_ASAR\betterdiscord.asar
 Keep the folder structure unchanged.
